@@ -20,5 +20,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Tips to configure Eslint & Prettier for Vue
+https://www.vuemastery.com/blog/vs-code-for-vuejs-developers/
+
